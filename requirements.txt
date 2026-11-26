@@ -1,0 +1,4 @@
+# Power Meter
+pystray
+Pillow
+nvidia-ml-py
